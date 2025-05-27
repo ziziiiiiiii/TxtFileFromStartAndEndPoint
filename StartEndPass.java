@@ -1,3 +1,6 @@
+// This program reads lines from a .txt file from a starting line to an ending line based on input from the user. It then returns the text from the files it has processed.
+// The program uses the .txt file to process data.
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
